@@ -1,7 +1,7 @@
 ---
 title: "[筆記]新聞稿 AI 協作與自動化工具"
 date_created: 2026-08-19T09:39:43+08:00
-date_modified: 2026-09-27T21:59:42+08:00
+date_modified: 2026-09-28T00:03:23+08:00
 date: 2026-09-27
 draft: false
 share_link: https://share.note.sx/6dd9jk6e
@@ -48,10 +48,10 @@ share_updated: 2026-09-19T07:45:26+08:00
 >> - [[tax_news_臺北國稅局_113年]]
 >> - [[tax_news_臺北國稅局_114年]]
 >> - [[tax_news_臺北國稅局_115年]]
->> - [[Cabinet/Public/心流/新聞稿AI實戰指南/tax_news_高雄國稅局]]
->> - [[Cabinet/Public/心流/新聞稿AI實戰指南/tax_news_北區國稅局]]
->> - [[Cabinet/Public/心流/新聞稿AI實戰指南/tax_news_中區國稅局]]
->> - [[Cabinet/Public/心流/新聞稿AI實戰指南/tax_news_南區國稅局]]
+>> - [[tax_news_高雄國稅局]]
+>> - [[tax_news_北區國稅局]]
+>> - [[tax_news_中區國稅局]]
+>> - [[tax_news_南區國稅局]]
 >>
 >> ```text-nowrap
 >> tax_news_臺北國稅局_111年.md
