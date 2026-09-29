@@ -1,7 +1,7 @@
 ---
 title: "[速查]新聞稿 AI 協作速查手冊"
 date_created: 2026-09-18T14:13:54+08:00
-date_modified: 2026-09-29T09:41:02+08:00
+date_modified: 2026-09-29T10:38:53+08:00
 date: 2026-09-27
 draft: false
 share_link: https://share.note.sx/leohu77r
