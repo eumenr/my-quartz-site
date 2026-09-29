@@ -1,7 +1,7 @@
 ---
 title: "[筆記]新聞稿 AI 協作與自動化工具"
 date_created: 2026-08-19T09:39:43+08:00
-date_modified: 2026-09-28T00:18:37+08:00
+date_modified: 2026-09-29T10:38:10+08:00
 date: 2026-09-27
 draft: false
 share_link: https://share.note.sx/6dd9jk6e
@@ -23,7 +23,7 @@ share_updated: 2026-09-19T07:45:26+08:00
 
 - **AI 工作區**：[Gemini Notebook 資源庫](https://notebook.google.com/notebook/b2e3ae70-7a15-4baa-9476-7d33be3032c9)
 - **實體成果共享**：
-	- 📊 [簡報簡介](https://share.note.sx/bjzq7t5f)
+	- 📊 [簡報簡介](https://eumenr.github.io/reservoir/Extra/Slides%20Extended/index_新聞稿%20AI%20協作指南.html)
 - 本地筆記
 	> [[簡化作業-AI撰寫新聞稿]]
 
@@ -36,9 +36,9 @@ share_updated: 2026-09-19T07:45:26+08:00
 >> - [[新聞稿 AI 協作速查手冊]]
 >>
 >> ```text-nowrap
->> https://share.note.sx/6dd9jk6e
+>> https://eumenr.pages.dev/心流/新聞稿ai實戰指南/新聞稿-ai-協作與自動化工具
 >> https://share.note.sx/bjzq7t5f
->> https://share.note.sx/leohu77r
+>> https://eumenr.pages.dev/心流/新聞稿ai實戰指南/協作速查手冊
 >> ```
 
 > [!info]+ 檔案 from [00.新聞稿](file://///stsarw09/%E5%85%AC%E7%94%A8%E5%8D%80/%E9%8A%B7%E5%94%AE%E7%A8%85%E7%B5%84/%E5%96%AE%E4%BD%8D%E5%85%A7%E9%83%A8%E5%82%B3%E9%81%9E/%E6%96%B0%E8%81%9E%E7%A8%BF%E5%8F%8A%E6%9C%83%E7%A8%BF/00.%E6%96%B0%E8%81%9E%E7%A8%BF)
