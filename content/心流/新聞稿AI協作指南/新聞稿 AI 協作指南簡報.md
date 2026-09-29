@@ -3,7 +3,7 @@ title: 新聞稿 AI 協作指南
 cssclasses: [slides]
 tags: [slides]
 date_created: 2026-09-16T16:49:29+08:00
-date_modified: 2026-09-29T15:22:44+08:00
+date_modified: 2026-09-29T15:23:45+08:00
 date: 2026-09-29
 draft: false
 status: 🌱 下種

@@ -16,7 +16,7 @@ share_updated: 2026-09-27T21:38:18+08:00
 
 [TOC]
 
-- [[新聞稿 AI 協作指南]]([簡報](https://eumenr.github.io/reservoir/Extra/Slides%20Extended/index_新聞稿%20AI%20協作指南.html))
+- [[新聞稿 AI 協作指南簡報]]([簡報](https://eumenr.github.io/reservoir/Extra/Slides%20Extended/index_新聞稿%20AI%20協作指南.html))
 - [[新聞稿 AI 協作與自動化工具]]
 - [[新聞稿 AI 協作速查手冊]]
 
