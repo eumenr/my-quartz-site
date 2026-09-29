@@ -1,7 +1,7 @@
 ---
 title: "[速查]新聞稿 AI 協作速查手冊"
 date_created: 2026-09-18T14:13:54+08:00
-date_modified: 2026-09-29T10:38:53+08:00
+date_modified: 2026-09-29T15:22:34+08:00
 date: 2026-09-27
 draft: false
 share_link: https://share.note.sx/leohu77r
@@ -16,7 +16,7 @@ share_updated: 2026-09-27T21:38:18+08:00
 
 [TOC]
 
-- [新聞稿 AI 協作指南](https://eumenr.github.io/reservoir/Extra/Slides%20Extended/index_新聞稿%20AI%20協作指南.html)([[新聞稿 AI 協作指南|簡報]])
+- [[新聞稿 AI 協作指南]]([簡報](https://eumenr.github.io/reservoir/Extra/Slides%20Extended/index_新聞稿%20AI%20協作指南.html))
 - [[新聞稿 AI 協作與自動化工具]]
 - [[新聞稿 AI 協作速查手冊]]
 

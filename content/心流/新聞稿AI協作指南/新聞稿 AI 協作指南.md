@@ -3,16 +3,15 @@ title: 新聞稿 AI 協作指南
 cssclasses: [slides]
 tags: [slides]
 date_created: 2026-09-16T16:49:29+08:00
-date_modified: 2026-09-29T10:35:31+08:00
-draft: true
+date_modified: 2026-09-29T15:22:44+08:00
+date: 2026-09-29
+draft: false
 status: 🌱 下種
 share_link: https://share.note.sx/bjzq7t5f
 share_updated: 2026-09-19T22:49:36+08:00
 theme: black
 transition: fade
 css: [../../.obsidian/snippets/slides_extended_css.css]
-draft: false
-date: 2026-09-29
 ---
 ^frontmatter
 
