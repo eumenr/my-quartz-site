@@ -1,11 +1,11 @@
 ---
 title: "[筆記]新聞稿 AI 協作與自動化工具"
 date_created: 2026-08-19T09:39:43+08:00
-date_modified: 2026-09-29T10:38:10+08:00
-date: 2026-09-27
-draft: false
+date_modified: 2026-10-05T10:48:48+08:00
 share_link: https://share.note.sx/6dd9jk6e
 share_updated: 2026-09-19T07:45:26+08:00
+date: 2026-09-27
+draft: false
 ---
 
 # 新聞稿 AI 協作與自動化工具
