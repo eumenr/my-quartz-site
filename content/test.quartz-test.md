@@ -1,0 +1,108 @@
+---
+title: "test"
+date_created: 2026-10-05T14:34:49+08:00
+date_modified: 2026-10-05T15:53:13+08:00
+input:
+  流程:
+    - 序號: 1
+      項目: []
+      名稱: 流程
+      本機: ""
+      限期:
+        - 2026-10-14
+        - 2026-10-15
+      事件: 請協助更換deadline服務電話輪值
+      交換對象:
+        單位: 營三
+        姓名: 丁戊己
+  負責承辦:
+    姓名: 甲乙丙
+draft: false
+date: 2026-10-05
+---
+
+<pre class="frontmatter language-yaml" style="display: none;"><code class="language-yaml is-loaded"><span class="token key atrule">title</span><span class="token punctuation">:</span> <span class="token string">"test"</span>
+<span class="token key atrule">date_created</span><span class="token punctuation">:</span> <span class="token datetime number">2026-10-05T14:34:49+08:00</span>
+<span class="token key atrule">date_modified</span><span class="token punctuation">:</span> <span class="token datetime number">2026-10-05T15:40:38+08:00</span>
+<span class="token key atrule">input</span><span class="token punctuation">:</span>
+  <span class="token key atrule">流程</span><span class="token punctuation">:</span>
+	<span class="token punctuation">-</span> <span class="token key atrule">序號</span><span class="token punctuation">:</span> <span class="token number">1</span>
+	  <span class="token key atrule">項目</span><span class="token punctuation">:</span> <span class="token punctuation">[</span><span class="token punctuation">]</span>
+	  <span class="token key atrule">名稱</span><span class="token punctuation">:</span> 流程
+	  <span class="token key atrule">本機</span><span class="token punctuation">:</span> <span class="token string">""</span>
+	  <span class="token key atrule">限期</span><span class="token punctuation">:</span>
+		<span class="token punctuation">-</span> <span class="token datetime number">2026-10-14</span>
+		<span class="token punctuation">-</span> <span class="token datetime number">2026-10-15</span>
+	  <span class="token key atrule">事件</span><span class="token punctuation">:</span> 請協助更換deadline服務電話輪值
+	  <span class="token key atrule">交換對象</span><span class="token punctuation">:</span>
+		<span class="token key atrule">單位</span><span class="token punctuation">:</span> 營三
+		<span class="token key atrule">姓名</span><span class="token punctuation">:</span> 丁戊己
+  <span class="token key atrule">負責承辦</span><span class="token punctuation">:</span>
+	<span class="token key atrule">姓名</span><span class="token punctuation">:</span> 甲乙丙</code><button class="copy-code-button"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-copy"><rect x="8" y="8" width="14" height="14" rx="2" ry="2"></rect><path d="M4 16c-1.1 0-2-.9-2-2V4c0-1.1.9-2 2-2h10c1.1 0 2 .9 2 2"></path></svg></button></pre>
+
+<p dir="auto"><span><span>乙丙</span></span>，您好，<br><br></p>
+
+<p dir="auto">&lt;以下建議以 HTML 格式檢視&gt;<br>
+請協助更換客服，謝謝~</p>
+
+<table>
+<thead>
+<tr>
+<th align="center" dir="ltr">日期</th>
+<th align="center" dir="ltr"><strong><span style="display: inline-flex; flex-direction: column; vertical-align: top;"><span style="display: inline-flex; align-items: center; gap: 8px;"><span>10/14(三)</span></span></span></strong></th>
+<th align="center" dir="ltr"><strong><span style="display: inline-flex; flex-direction: column; vertical-align: top;"><span style="display: inline-flex; align-items: center; gap: 8px;"><span>10/15(四)</span></span></span></strong></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="center" dir="ltr">原本</td>
+<td align="center" dir="ltr">誰</td>
+<td align="center" dir="ltr"><span><span>戊己</span></span></td>
+</tr>
+<tr>
+<td align="center" dir="ltr">改為</td>
+<td align="center" dir="ltr"><span><span>戊己</span></span></td>
+<td align="center" dir="ltr">誰</td>
+</tr>
+</tbody>
+</table>
+
+<ul class="has-list-bullet">
+<li data-line="0" dir="auto"><span class="list-bullet"></span>輪值表在公用區位置如下：「<span><span><span><a class="internal-link" data-href="#^flow1-paths" href="#^flow1-paths" target="_blank" rel="noopener nofollow">(「遠端」未設定)</a></span></span></span>」。</li>
+</ul>
+
+<div class="block-language-dataviewjs node-insert-event" style="overflow-x: auto;"><div><span>Hello Quartz</span></div></div>
+
+<div class="block-language-dataviewjs node-insert-event" style="overflow-x: auto;"><p dir="auto"><span><pre class="language-markdown"><code class="language-markdown is-loaded">【系統時空設定】目前時間點為民國 115 年 11 月。
+【目標設定】
+<span class="token list punctuation">-</span> 目標稅目：營業稅
+<span class="token list punctuation">-</span> 目標月份：115年11月
+<span class="token list punctuation">-</span> 產出數量：3 篇
+
+【執行規則】
+<span class="token list punctuation">1.</span> 標題與主題：
+	<span class="token list punctuation">-</span> 【選題強制分散】優先避免 3 篇均集中於同一來源檔案。如無適當題材，不得為滿足來源分散而硬選不相關或不適用題材。
+	<span class="token list punctuation">-</span> 「主題」係指主要稅務議題、適用對象及核心法令均高度相同之內容，不以標題文字不同即視為不同主題。
+	<span class="token list punctuation">-</span> 絕對不可採用 113年11月至115年11月 期間出現過的任何臺北國稅局新聞稿標題與主題。
+	<span class="token list punctuation">-</span> 3 篇彼此之間的標題必須完全相異。
+<span class="token list punctuation">2.</span> 結構與用詞：參考臺北國稅局近 2 年（即 114 年 2 月以後發布者）同類型新聞稿的段落結構、公務用語及法條引述口氣。不要寫聯絡人那一段。
+<span class="token list punctuation">3.</span> 關於數字與日期：
+	<span class="token list punctuation">-</span> 舉例之金額除依法條規定外，不得和原發布版本相同，盡量以整數為例（如 10 萬、200 萬等），且雙方約定金額（如房屋款與土地款）盡量不要相同。
+	<span class="token list punctuation">-</span> 【重要】案例日期不得沿用原稿日期，原則上固定設定於目標月份前幾期；交易日期、進銷貨日期或發票期別，請使用「115 年 7-8 月」或「115 年 9-10 月」等指定期間。
+	<span class="token list punctuation">-</span> 數字案例僅作為說明性假設，不得使讀者誤認為實際查獲案件；案例金額須可經人工重新計算驗證。
+<span class="token list punctuation">4.</span> 輸出限制：只輸出結果，嚴禁任何前言、說明或結語，但每篇開頭須明確標明引用參考來源。若未標記來源標號 [1]、[2]，視為不符合格式要求。
+<span class="token list punctuation">5.</span> 【強制引註規範】內文凡論述法規條文、法律要件，或引用來源資料中的具體事實，該句句末「絕對必須」加上 Gemini Notebook 的來源標號（例如：[1]、[2]）。
+	<span class="token list punctuation">-</span> AI自行設定之假設案例、金額、日期及計算結果，不得虛構或強行附加來源標號。
+	<span class="token list punctuation">-</span> 若內容無法由目前 Notebook 來源資料確認，不得自行製造來源標號。
+
+【輸出格式】
+<span class="token title important"><span class="token punctuation">###</span> [標題]</span>
+<span class="token list punctuation">-</span> 引用來源：[檔案名稱，要附來源標號]（原發布年月：ＯＯ年ＯＯ月）
+<span class="token list punctuation">-</span> 資料來源說明
+	<span class="token list punctuation">-</span> [條列來源，如：加值型及非加值型營業稅法第1條、第3條、第28條及第51條第1項第1款。]
+
+[內文]
+
+<span class="token hr punctuation">---</span>
+[重複上述格式輸出第 2 篇、第 3 篇......]
+</code><button class="copy-code-button"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-copy"><rect x="8" y="8" width="14" height="14" rx="2" ry="2"></rect><path d="M4 16c-1.1 0-2-.9-2-2V4c0-1.1.9-2 2-2h10c1.1 0 2 .9 2 2"></path></svg></button></pre></span></p></div>
