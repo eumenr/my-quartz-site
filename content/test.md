@@ -1,7 +1,7 @@
 ---
 title: "test"
 date_created: 2026-10-05T14:34:49+08:00
-date_modified: 2026-10-06T15:27:38+08:00
+date_modified: 2026-10-06T15:35:11+08:00
 input:
   流程:
     - 序號: 1
@@ -21,6 +21,13 @@ draft: false
 date: 2026-10-06
 ---
 
+
+<script>
+document.querySelectorAll(".current-year").forEach(el => {
+  el.textContent = new Date().getFullYear();
+});
+</script>
+
 `$=dv.span("INLINE SPAN")`
 
 `$=dv.current().file.name`
@@ -32,7 +39,7 @@ date: 2026-10-06
 `$=dv.current().input.負責承辦.姓名.substring(1)`，您好，<br><br>
 
 <以下建議以 HTML 格式檢視>
-請協助更換客服<script>document.write(new Date().getFullYear());</script>，謝謝~
+請協助更換客服<span class="current-year"></span>，謝謝~
 
 |日期|**`$=(()=>{dv.view("Extra/Scripts/date-input", { flowIndex: 1, dayIndex: 1, timeFormat: "MM/DD(ddd)" });})()`**|**`$=(()=>{dv.view("Extra/Scripts/date-input", { flowIndex: 1, dayIndex: 2, timeFormat: "MM/DD(ddd)" });})()`**|
 |:-:|:-:|:-:|
