@@ -6,4 +6,3 @@ export default config
 export const layout = await loadQuartzLayout()
 
 layout.afterBody.push(DynamicDate)
-export { layout }
