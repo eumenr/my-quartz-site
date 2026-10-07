@@ -1,14 +1,8 @@
-import type {
-	QuartzComponent,
-	QuartzComponentConstructor,
-} from "../types"
-
+import type { QuartzComponent } from "../types"
 import script from "./dynamic-date.inline"
 
-const DynamicDate: QuartzComponent = () => {
-	return null
-}
+const DynamicDate: QuartzComponent = () => null
 
 DynamicDate.afterDOMLoaded = script
 
-export default (() => DynamicDate) satisfies QuartzComponentConstructor
+export default DynamicDate

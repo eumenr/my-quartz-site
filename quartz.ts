@@ -2,7 +2,13 @@ import { loadQuartzConfig, loadQuartzLayout } from "./quartz/plugins/loader/conf
 import DynamicDate from "./quartz/components/custom/DynamicDate"
 
 const config = await loadQuartzConfig()
-export default config
-export const layout = await loadQuartzLayout()
 
-layout.afterBody.push(DynamicDate)
+export default config
+
+export const layout = await loadQuartzLayout({
+	byPageType: {
+		content: {
+			afterBody: [DynamicDate],
+		},
+	},
+})
