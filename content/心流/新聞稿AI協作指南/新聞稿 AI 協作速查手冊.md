@@ -16,7 +16,7 @@ draft: false
 
 [TOC]
 
-- [[新聞稿 AI 協作指南簡報]]([簡報](https://eumenr.github.io/reservoir/Extra/Slides%20Extended/index_新聞稿%20AI%20協作指南.html))
+- [[新聞稿 AI 協作指南簡報]]([簡報](https://eumenr.github.io/reservoir/Extra/Slides%20Extended/index_新聞稿%20AI%20協作指南簡報.html))
 - [[新聞稿 AI 協作與自動化工具]]
 - [[新聞稿 AI 協作速查手冊]]
 
