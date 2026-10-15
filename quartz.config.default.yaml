@@ -1,12 +1,12 @@
 # yaml-language-server: $schema=./quartz/plugins/quartz-plugins.schema.json
 configuration:
-  pageTitle: Quartz 5
+  pageTitle: 空手把鋤頭
   pageTitleSuffix: ""
   enableSPA: true
   enablePopovers: true
   analytics:
     provider: plausible
-  locale: en-US
+  locale: zh-TW
   baseUrl: quartz.jzhao.xyz
   ignorePatterns:
     - private
@@ -21,25 +21,25 @@ configuration:
       code: IBM Plex Mono
     colors:
       lightMode:
-        light: "#faf8f8"
-        lightgray: "#e5e5e5"
-        gray: "#b8b8b8"
-        darkgray: "#4e4e4e"
-        dark: "#2b2b2b"
-        secondary: "#284b63"
-        tertiary: "#84a59d"
-        highlight: rgba(143, 159, 169, 0.15)
-        textHighlight: "#fff23688"
+        light: "#f3f7fa"
+        lightgray: "#dce7ef"
+        gray: "#9aafbf"
+        darkgray: "#42596b"
+        dark: "#203547"
+        secondary: "#368bb8"
+        tertiary: "#5cadd6"
+        highlight: rgba(92, 173, 214, 0.18)
+        textHighlight: "#5cadd644"
       darkMode:
-        light: "#161618"
-        lightgray: "#393639"
-        gray: "#646464"
-        darkgray: "#d4d4d4"
-        dark: "#ebebec"
-        secondary: "#7b97aa"
-        tertiary: "#84a59d"
-        highlight: rgba(143, 159, 169, 0.15)
-        textHighlight: "#b3aa0288"
+        light: "#111923"
+        lightgray: "#263646"
+        gray: "#647b8e"
+        darkgray: "#b6c5d4"
+        dark: "#e0eaf3"
+        secondary: "#5cadd6"
+        tertiary: "#82c8eb"
+        highlight: rgba(92, 173, 214, 0.18)
+        textHighlight: "#5cadd644"
 plugins:
   - source: "@quartz-community/created-modified-date"
     enabled: true
