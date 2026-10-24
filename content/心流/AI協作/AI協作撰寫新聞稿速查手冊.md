@@ -1,7 +1,7 @@
 ---
 title: "[速查]AI協作撰寫新聞稿"
 date_created: 2026-09-18T14:13:54+08:00
-date_modified: 2026-10-25T01:15:12+08:00
+date_modified: 2026-10-25T01:41:04+08:00
 share_link: https://share.note.sx/leohu77r
 share_updated: 2026-09-27T21:38:18+08:00
 date: 2026-09-27
@@ -44,6 +44,8 @@ draft: false
 		<a href="https://is.gd/bLW8KL" target="_blank"><i class="fas fa-download fa-3x"></i>下載連結</a>
 		供快速建立 Gemini Notebook 初始來源使用；資料版本以資料包註記為準。
 
+> [!info]
+> 密碼是用英數輸入法打「新聞稿」的注音。
 > 實際撰稿前，請依內網公用區補入最新本局新聞稿；其他區局新聞稿及法規／函釋來源亦應依需要更新。
 - **請複製以下 md 檔案至本機電腦備用**：
 	1. 本組奉核之新聞稿如下檔案，標籤命名為「`臺北國稅局奉核版`」
