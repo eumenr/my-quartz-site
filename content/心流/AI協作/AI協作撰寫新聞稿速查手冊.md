@@ -1,14 +1,12 @@
 ---
 title: "[速查]AI協作撰寫新聞稿"
 date_created: 2026-09-18T14:13:54+08:00
-date_modified: 2026-10-25T01:10:37+08:00
+date_modified: 2026-10-25T01:15:12+08:00
 share_link: https://share.note.sx/leohu77r
 share_updated: 2026-09-27T21:38:18+08:00
 date: 2026-09-27
 draft: false
 ---
-
-# [速查]AI協作撰寫新聞稿
 
 [簡報](https://eumenr.github.io/reservoir/Extra/Slides%20Extended/index_新聞稿%20AI%20協作指南簡報.html)
 
