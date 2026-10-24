@@ -1,14 +1,12 @@
 ---
 title: "[速查]AI協作撰寫新聞稿"
 date_created: 2026-09-18T14:13:54+08:00
-date_modified: 2026-10-25T07:46:06+08:00
+date_modified: 2026-10-25T07:51:54+08:00
 share_link: https://share.note.sx/leohu77r
 share_updated: 2026-09-27T21:38:18+08:00
 date: 2026-09-27
 draft: false
 ---
-
-# [速查]AI 協作撰寫新聞稿
 
 本手冊配合「AI 協作撰寫考核報告及新聞稿」讀書會簡報，說明如何運用 Gemini Notebook 協助準備素材、起草、查核及修正新聞稿。
 
