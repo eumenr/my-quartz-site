@@ -17,7 +17,6 @@ draft: false
 相關資源：
 
 - [[新聞稿 AI 協作指南簡報]] | [簡報](https://eumenr.github.io/reservoir/Extra/Slides%20Extended/index_新聞稿%20AI%20協作指南簡報.html)
-- [[AI協作撰寫新聞稿自動化工具]]
 - [[AI協作撰寫新聞稿速查手冊]]
 
 ---
