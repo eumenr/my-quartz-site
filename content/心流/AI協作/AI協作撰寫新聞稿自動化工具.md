@@ -1,29 +1,26 @@
 ---
-title: "[筆記]新聞稿 AI 協作與自動化工具"
+title: "[筆記]新聞稿工具"
 date_created: 2026-08-19T09:39:43+08:00
-date_modified: 2026-10-15T16:14:59+08:00
+date_modified: 2026-10-24T23:43:19+08:00
 share_link: https://share.note.sx/6dd9jk6e
 share_updated: 2026-09-19T07:45:26+08:00
 date: 2026-09-27
 draft: false
 ---
 
-# 新聞稿 AI 協作與自動化工具
+# AI協作撰寫新聞稿自動化工具
 
 > **檔案說明**：本筆記彙整無 IT 背景稅務員使用 Gemini Notebook 產製國稅新聞稿草稿之 SOP，並收錄新聞稿自動爬取、整理與法規檢索之 Python 自動化腳本。
 
 ---
 
-## 目錄
-
-```toc
-```
+[TOC]
 
 ## 快速導覽與資源連結
 
 - **AI 工作區**：[Gemini Notebook 資源庫](https://notebook.google.com/notebook/b2e3ae70-7a15-4baa-9476-7d33be3032c9)
 - **實體成果共享**：
-	- 📊 [簡報簡介](https://eumenr.github.io/reservoir/Extra/Slides%20Extended/index_新聞稿%20AI%20協作指南.html)
+	- 📊 [簡報簡介](https://eumenr.github.io/reservoir/Extra/Slides%20Extended/index_新聞稿%20AI%20協作指南簡報.html)
 - 本地筆記
 	> [[簡化作業-AI撰寫新聞稿]]
 
@@ -31,14 +28,14 @@ draft: false
 
 > [!info]+ 筆記
 >> [!col2]
->> - [[新聞稿 AI 協作與自動化工具]]
 >> - [[新聞稿 AI 協作指南簡報]]
->> - [[新聞稿 AI 協作速查手冊]]
+>> - [[AI協作撰寫新聞稿自動化工具]]
+>> - [[AI協作撰寫新聞稿速查手冊]]
 >>
 >> ```text-nowrap
->> https://eumenr.pages.dev/心流/新聞稿ai實戰指南/新聞稿-ai-協作與自動化工具
+>> https://eumenr.pages.dev/心流/ai協作/新聞稿-ai-協作與自動化工具
 >> https://share.note.sx/bjzq7t5f
->> https://eumenr.pages.dev/心流/新聞稿ai實戰指南/協作速查手冊
+>> https://eumenr.pages.dev/心流/ai協作/協作速查手冊
 >> ```
 
 > [!info]+ 檔案 from [00.新聞稿](file://///stsarw09/%E5%85%AC%E7%94%A8%E5%8D%80/%E9%8A%B7%E5%94%AE%E7%A8%85%E7%B5%84/%E5%96%AE%E4%BD%8D%E5%85%A7%E9%83%A8%E5%82%B3%E9%81%9E/%E6%96%B0%E8%81%9E%E7%A8%BF%E5%8F%8A%E6%9C%83%E7%A8%BF/00.%E6%96%B0%E8%81%9E%E7%A8%BF)
