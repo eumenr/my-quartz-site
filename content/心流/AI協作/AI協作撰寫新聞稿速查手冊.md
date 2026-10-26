@@ -1,7 +1,7 @@
 ---
 title: "[速查]AI協作撰寫新聞稿"
 date_created: 2026-09-18T14:13:54+08:00
-date_modified: 2026-10-26T22:47:03+08:00
+date_modified: 2026-10-26T23:08:15+08:00
 share_link: https://share.note.sx/leohu77r
 share_updated: 2026-09-27T21:38:18+08:00
 date: 2026-09-27
@@ -319,8 +319,8 @@ draft: false
 ### 步驟四：實用提問 Prompt
 
 > **提示**：複製下方框內完整文字，修改篇數和月份後，直接貼入 Gemini Notebook 聊天框發問。
-> ps. 按長官要求，語氣結構等應參採 114年2月以後發布之新聞稿。
-> 自定義提示詞建議使用 [HackMD](https://hackmd.io/login)
+> 1. 按長官要求，語氣結構等應參採 114年2月以後發布之新聞稿。
+> 2. 自行調整後建議存入自己的 [HackMD](https://hackmd.io/login) 以供下次使用。
 
 
 **需要修正時，依問題類型選擇下列指令：**
