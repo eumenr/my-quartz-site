@@ -1,14 +1,14 @@
 ---
 title: "[速查]AI協作撰寫新聞稿"
 date_created: 2026-09-18T14:13:54+08:00
-date_modified: 2026-10-25T08:08:31+08:00
+date_modified: 2026-10-26T19:43:22+08:00
 share_link: https://share.note.sx/leohu77r
 share_updated: 2026-09-27T21:38:18+08:00
 date: 2026-09-27
 draft: false
 ---
 
-本手冊配合「AI 協作撰寫考核報告及新聞稿」讀書會簡報，說明如何運用 Gemini Notebook 協助準備素材、起草、查核及修正新聞稿。
+本手冊配合「AI 協作撰寫考核報告及新聞稿」讀書會[簡報](https://is.gd/x6ukaP)，說明如何運用 Gemini Notebook 協助準備素材、起草、查核及修正新聞稿。
 
 核心流程：
 
@@ -172,7 +172,7 @@ draft: false
 
 > **提示**：複製下方框內完整文字，修改篇數和月份後，直接貼入 Gemini Notebook 聊天框發問。
 > ps. 按長官要求，語氣結構等應參採 114年2月以後發布之新聞稿。
-> [[AI協作撰寫新聞稿自動化工具#提問產製新聞稿|提問產製新聞稿]]
+> 自定義提示詞建議使用 [HackMD](https://hackmd.io/login)
 
 ```
 【本次設定】
