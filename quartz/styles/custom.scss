@@ -9,3 +9,20 @@ code, pre {
 pre {
 	tab-size: 4;
 }
+
+/*
+.callout .callout-content pre > button.clipboard-button {
+	position: absolute;
+	top: 0.3rem;
+	left: 22rem;
+	right: auto;
+	z-index: 2;
+}
+*/
+
+.callout .callout-content,
+.callout .callout-content figure,
+.callout .callout-content figure pre {
+	min-width: 0;
+	max-width: 100%;
+}
