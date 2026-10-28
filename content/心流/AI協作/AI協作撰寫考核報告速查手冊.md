@@ -6,7 +6,7 @@ draft: false
 date: 2026-10-25
 ---
 
-本手冊配合「AI 協作撰寫考核報告及新聞稿」讀書會[簡報](https://is.gd/x6ukaP)，示範如何運用 Gemini Notebook 及生成式 AI，協助整理資料、撰寫考核報告草稿與修正文稿。
+本手冊配合「AI 協作撰寫考核報告及新聞稿」讀書會[簡報](https://is.gd/x6ukaP)，示範如何運用 [Gemini Notebook](https://notebook.google.com/?pli=1) 及生成式 AI，協助整理資料、撰寫考核報告草稿與修正文稿。
 
 核心流程：
 
