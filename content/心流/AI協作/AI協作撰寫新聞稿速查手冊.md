@@ -1,7 +1,7 @@
 ---
 title: "[速查]AI協作撰寫新聞稿"
 date_created: 2026-09-18T14:13:54+08:00
-date_modified: 2026-10-26T23:18:04+08:00
+date_modified: 2026-10-28T14:54:01+08:00
 share_link: https://share.note.sx/leohu77r
 share_updated: 2026-09-27T21:38:18+08:00
 date: 2026-09-27
@@ -64,7 +64,7 @@ draft: false
 		2. `tax_news_臺北國稅局_112年.md`
 		3. `tax_news_臺北國稅局_113年.md`
 		4. `tax_news_臺北國稅局_114年.md`（模仿從114年2月1日至目前結構與口氣）
-		5. `tax_news_臺北國稅局_115年.md`（最新奉核稿件請自行增加）
+		5. `tax_news_臺北國稅局_115年.md`（最新奉核稿件請參考[範例](https://is.gd/VT4V4f)[[AI協作撰寫新聞稿自動化工具#^7tjn1n|格式]]自行增加）
 	2. 其他區局官網發布之新聞稿（選題與標題風格參考），標籤命名為「`其他區局新聞稿連結`」
 	> [!info] 連結
 	> ```
