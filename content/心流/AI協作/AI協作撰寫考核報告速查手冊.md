@@ -1,7 +1,7 @@
 ---
 title: "[速查]AI協作撰寫考核報告"
 date_created: 2026-10-23T20:21:39+08:00
-date_modified: 2026-10-26T23:16:54+08:00
+date_modified: 2026-10-28T15:02:36+08:00
 draft: false
 date: 2026-10-25
 ---

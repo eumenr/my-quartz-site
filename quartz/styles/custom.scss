@@ -10,9 +10,19 @@ pre {
 	tab-size: 4;
 }
 
-.callout .callout-content,
-.callout .callout-content figure,
-.callout .callout-content figure pre {
-	// min-width: 0;
+.callout .callout-content {
+	min-width: 0;
 	max-width: 100%;
+}
+
+.callout .callout-content figure {
+	min-width: 0;
+	max-width: 100%;
+}
+
+.callout .callout-content figure pre {
+	min-width: 0;
+	max-width: 100%;
+	box-sizing: border-box;
+	overflow-x: auto;
 }
